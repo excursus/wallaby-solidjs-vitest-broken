@@ -1,0 +1,22 @@
+{
+    "name": "wallaby-solidjs-vitest-broken",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "test": "vitest"
+    },
+    "dependencies": {
+        "solid-js": "^1.6.5"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.2.4",
+        "@vitest/browser": "^0.29.7",
+        "jest-environment-jsdom": "^29.3.1",
+        "solid-testing-library": "^0.5.1",
+        "typescript": "^4.9.4",
+        "vite": "^4.2.1",
+        "vite-plugin-solid": "^2.5.0",
+        "vitest": "^0.29.7"
+    }
+}
